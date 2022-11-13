@@ -1,0 +1,22 @@
+{
+  "name": "Chiliz Testnet Scoville",
+  "chain": "CHZ",
+  "rpc": ["https://scoville-rpc.chiliz.com/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "decimals": 18
+  },
+  "infoURL": "https://scoville-rpc.chiliz.com/",
+  "shortName": "tbtt",
+  "chainId": 88880,
+  "networkId": 88880,
+  "explorers": [
+    {
+      "name": "chilizscan",
+      "url": "https://scoville-rpc.chiliz.com/",
+      "standard": "none"
+    }
+  ]
+}
